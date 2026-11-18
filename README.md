@@ -208,6 +208,12 @@ This project demonstrates experience in:
 
 ---
 
+
+## MoneyTracker API Contract Design
+
+I designed the MoneyTracker OpenAPI 3.1.0 specification, covering 11 API paths, 14 HTTP operations and 7 functional categories, including authentication, transactions, budgets and AI receipt scanning.
+
+[View API Architecture and Contract Design](docs/api-contract-architecture.md)
 ## Connect
 
 **Amila Iresh**
